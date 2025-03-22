@@ -2,8 +2,8 @@
 # Workshop on Digital Forensics
 Installation of Sleuth Kit & Autopsy
 ```
-Register Number: 212222100050
-Name: Sivaram R
+Register Number: 212224040187
+Name: S MANO SUSHMITHA
 ```
 ## Introduction
 Digital forensics involves extracting and analyzing data from digital devices to investigate cybercrimes. Sleuth Kit and Autopsy are widely used open-source tools for forensic analysis.
@@ -24,7 +24,7 @@ Digital forensics involves extracting and analyzing data from digital devices to
 
 - Give install
 ![image](https://github.com/user-attachments/assets/0cfccbdf-fbcf-47ee-a55e-d34cabb50357)
-![image](https://github.com/user-attachments/assets/057a4f15-d9c8-49da-8cd3-1c293e896840)
+
 
 - Successfully installed
 ![image](https://github.com/user-attachments/assets/7f3a7805-0355-4716-911e-821ad26fe517)
