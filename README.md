@@ -30,7 +30,7 @@ Digital forensics involves extracting and analyzing data from digital devices to
 
 ## B. Installing Sleuth Kit Separately (Optional)
 Download Sleuth Kit from www.sleuthkit.org/sleuthkit/download.php.
-![{FAC04ED6-02D9-4D2A-A73C-CDADA79B7939}](https://github.com/user-attachments/assets/216ff656-18eb-497f-a795-3ca4112e758c)
+![image](https://github.com/user-attachments/assets/9ac5490c-5704-4997-ac9e-015db1fbd74d)
 
 Extract and install it manually if needed.
 Add the installation directory to the system PATH for easy command-line access.
