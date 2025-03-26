@@ -34,7 +34,7 @@ Download Sleuth Kit from www.sleuthkit.org/sleuthkit/download.php.
 
 Extract and install it manually if needed.
 Add the installation directory to the system PATH for easy command-line access.
-![image](https://github.com/user-attachments/assets/0f92e5bb-cfaa-4505-89db-017f82b73ff8)
+![image](https://github.com/user-attachments/assets/c2e4959d-058c-40a8-860d-9b2425dfcf36)
 
 ## Conclusion
 By following these steps, you can install Sleuth Kit & Autopsy 
