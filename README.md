@@ -13,7 +13,8 @@ Digital forensics involves extracting and analyzing data from digital devices to
 1.Download Autopsy
 - Visit Autopsy Official Website and download the latest version.
 - Double-click the downloaded file and follow the on-screen instructions.
-![{660CA88E-DE17-4556-89B5-38945EF3AA31}](https://github.com/user-attachments/assets/d5cf2c90-4fc9-453e-93ff-ef64378dd232)
+![image](https://github.com/user-attachments/assets/8b333fce-43c8-42fa-9153-d0b9c19fab50)
+
 
 2.Installation Process
 - Launch Autopsy to check if it works correctly.
