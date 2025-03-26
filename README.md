@@ -2,8 +2,8 @@
 # Workshop on Digital Forensics
 Installation of Sleuth Kit & Autopsy
 ```
-Register Number: 212224040187
-Name: S MANO SUSHMITHA
+Register Number: 212222230028
+Name: DEEPIKA S
 ```
 ## Introduction
 Digital forensics involves extracting and analyzing data from digital devices to investigate cybercrimes. Sleuth Kit and Autopsy are widely used open-source tools for forensic analysis.
@@ -17,20 +17,15 @@ Digital forensics involves extracting and analyzing data from digital devices to
 
 2.Installation Process
 - Launch Autopsy to check if it works correctly.
- ![image](https://github.com/user-attachments/assets/b3cd238b-745a-4ae8-b7af-3bb26f3acafa)
-
+![Screenshot 2025-03-26 091022](https://github.com/user-attachments/assets/9cc616de-87ba-47e5-be7e-be872830d8ae)
 - Choose Directory
- ![image](https://github.com/user-attachments/assets/82d2d170-c0b2-43bc-871e-05f20c586150)
-
+![Screenshot 2025-03-26 091034](https://github.com/user-attachments/assets/08e15373-4b15-4693-8cd0-32789cd3f102)
 - Give install
-![image](https://github.com/user-attachments/assets/0cfccbdf-fbcf-47ee-a55e-d34cabb50357)
-
-
+![Screenshot 2025-03-26 091045](https://github.com/user-attachments/assets/4da41fde-445e-4e4d-95ae-00d5e05048eb)
 - Successfully installed
-![image](https://github.com/user-attachments/assets/7f3a7805-0355-4716-911e-821ad26fe517)
-
+![Screenshot 2025-03-26 091106](https://github.com/user-attachments/assets/0ce794cf-e500-4ed6-82b3-97b24e8a6690)
 - Autopsy Interface
-  ![Screenshot 2025-03-19 222716](https://github.com/user-attachments/assets/3f8dfb03-55b2-4553-8475-de3595a56ff0)
+ ![Screenshot 2025-03-26 091135](https://github.com/user-attachments/assets/e0b244fe-cae7-4c61-a843-ae4ca7f9f2da)
 
 ## B. Installing Sleuth Kit Separately (Optional)
 Download Sleuth Kit from www.sleuthkit.org/sleuthkit/download.php.
